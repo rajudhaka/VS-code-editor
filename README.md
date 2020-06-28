@@ -1,7 +1,7 @@
 # VS-code-editor
 # Basic setup
   File -> Preferences -> Settings
-  Change the font size to 16px
+  Change the font size to 18px
   Change the tab size to 2
   Change word wrap on
   
