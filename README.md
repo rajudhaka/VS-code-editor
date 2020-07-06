@@ -2,7 +2,7 @@
 # Basic setup
   File -> Preferences -> Settings
   Change the font size to 18px
-  Change the tab size to 2
+  Change the tab size to 2 and
   Change word wrap on
   
 # Extensions
