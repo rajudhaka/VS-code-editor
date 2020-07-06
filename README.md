@@ -16,3 +16,13 @@
 8. Prettier - Code formatter
 9. Visual Studio IntelliCode
 10. WordPress Snippets by wpdevtools.io
+
+# Shortcuts
+CTRL + Enter - Add a new line below
+Ctrl+Shift+Enter - Insert line above 
+ALT + Select - Select multiple line
+ALT + Down/Up arrow - Move a line
+ALT + Shift + Down/Up arrow - Duplicate a line
+CTRL + Shift + P - Commant pallate 
+CTRL + P - Quick Open
+Ctrl+↑ / ↓ - Scroll line up/down
