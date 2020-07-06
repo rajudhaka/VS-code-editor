@@ -26,3 +26,6 @@ ALT + Shift + Down/Up arrow - Duplicate a line
 CTRL + Shift + P - Commant pallate 
 CTRL + P - Quick Open
 Ctrl+↑ / ↓ - Scroll line up/down
+
+# More Shortcuts link 
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
